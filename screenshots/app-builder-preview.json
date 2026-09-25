@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "KBM Padam",
+      "hasCanvas": false,
+      "bodyTextLen": 2844,
+      "bodyTextHash": "268a5a8ae784238bc908d7cd9bd4aee6436f18cc72d21d14a2e89f56c5121b24",
+      "bodyTextPrefix": "GOVERNMENT OF KERALA KBM Padam കെബിഎം പഠനം · Department Test Q-B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "KBM Padam",
+      "hasCanvas": false,
+      "bodyTextLen": 2844,
+      "bodyTextHash": "268a5a8ae784238bc908d7cd9bd4aee6436f18cc72d21d14a2e89f56c5121b24",
+      "bodyTextPrefix": "GOVERNMENT OF KERALA KBM Padam കെബിഎം പഠനം · Department Test Q-B",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
